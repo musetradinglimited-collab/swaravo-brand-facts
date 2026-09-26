@@ -1,0 +1,2219 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://swaravo.com/#current-product-catalog",
+  "name": "Swaravo current product catalog",
+  "description": "A machine-readable, meaning-led reference to the 105 items in Swaravo’s public product feed, verified September 26, 2026.",
+  "url": "https://swaravo.com/collections/all",
+  "numberOfItems": 105,
+  "itemListOrder": "https://schema.org/ItemListOrderAscending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/hold-me-close-halskette-das-stille-versprechen-das-nie-loslasst#catalog-entry",
+        "url": "https://swaravo.com/products/hold-me-close-halskette-das-stille-versprechen-das-nie-loslasst",
+        "name": "Hold Me Close Halskette – Das stille Versprechen, das nie loslässt",
+        "description": "A hand-and-ring composition that gives visible form to a quiet promise of closeness.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/hold_me_close_white.webp?v=1775649903",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15851468882302"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/goldene-buroklammerkette-moderne-verbindung-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/goldene-buroklammerkette-moderne-verbindung-swaravo",
+        "name": "Goldene Büroklammerkette – Moderne Verbindung | Swaravo",
+        "description": "Open, interlocking links turn a modern chain silhouette into a symbol of connection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/chain-7.webp?v=1775706712",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15852395856254"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/halskette-ewige-umarmung-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/halskette-ewige-umarmung-swaravo",
+        "name": "Halskette Ewige Umarmung | Swaravo",
+        "description": "A heart-and-infinity-inspired design for an enduring bond that feels like an embrace.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665104552318-v6-ee1a5100622d-1080x1350.webp?v=1787647646",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665104552318"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/schwarze-pixel-herz-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/schwarze-pixel-herz-halskette",
+        "name": "Schwarze Pixel Herz Halskette – Fühle die Liebe in jedem Pixel | Swaravo",
+        "description": "A pixel-style heart brings a playful digital language to love and connection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665106944382-v6-95d4bf46b588-1080x1350.webp?v=1787648071",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665106944382"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/the-infinite-hug-necklace#catalog-entry",
+        "url": "https://swaravo.com/products/the-infinite-hug-necklace",
+        "name": "Eternal Umarmung Halskette – Eine Umarmung, die nie endet | Swaravo",
+        "description": "Interlocking arms form an endless embrace for someone whose closeness continues across distance.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15637070578046-v5-752e77405432-1080x1350.webp?v=1787647482",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15637070578046"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/die-umarmungs-kette-das-unzerbrechliche-band-zwischen-mutter-und-kind#catalog-entry",
+        "url": "https://swaravo.com/products/die-umarmungs-kette-das-unzerbrechliche-band-zwischen-mutter-und-kind",
+        "name": "Die Umarmungskette – Das unzerbrechliche Band zwischen Eltern und Kind | Swaravo",
+        "description": "An embrace motif created around the warmth and lasting bond between parent and child.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15611667087742-v5-021625e2e61d-1080x1350.webp?v=1787647387",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15611667087742"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/glockenblume-stimmungskette#catalog-entry",
+        "url": "https://swaravo.com/products/glockenblume-stimmungskette",
+        "name": "Glockenblume Halskette - Farbwechsel Stimmungskette mit Perlen | Swaravo",
+        "description": "A color-changing bellflower design that pairs a delicate floral form with a personal, expressive detail.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15499707023742-v5-e2e3b51c9c5e-1080x1350.webp?v=1787647593",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15499707023742"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/infinity-love-knot-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/infinity-love-knot-halskette",
+        "name": "Infinity Love Knot Halskette – Vergoldet & Symbolisch | Swaravo",
+        "description": "A love-knot and infinity composition representing a relationship designed to endure.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967373182-v5-4359a8ab13dc-1080x1350.webp?v=1787647703",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967373182"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/ewige-liebe-herz-kette#catalog-entry",
+        "url": "https://swaravo.com/products/ewige-liebe-herz-kette",
+        "name": "Ewige Liebe Herz-Kette – Vergoldeter Anhänger mit Zirkonia | Swaravo",
+        "description": "A heart-centered design made to express affection that is meant to last.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967307646-v5-8f562935f511-1080x1350.webp?v=1787647523",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967307646"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/linked-together-clip-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/linked-together-clip-halskette",
+        "name": "Büroklammer Kette \"Link Together\" – Symbol für ewige Verbundenheit| Swaravo",
+        "description": "A paperclip-inspired form symbolizes keeping important people and memories linked together.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967242110-v5-746ef5b1b283-1080x1350.webp?v=1787647355",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967242110"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/unendliche-namenskette#catalog-entry",
+        "url": "https://swaravo.com/products/unendliche-namenskette",
+        "name": "Unendliche Namenskette | Swaravo",
+        "description": "A personalized name design joined with the infinity idea for a bond with a personal identity.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016964161918-v5-d694aad7c1c0-1080x1350.webp?v=1787648556",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016964161918"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/personalisierte-umarmung-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/personalisierte-umarmung-halskette",
+        "name": "Personalisierte Umarmung Halskette | Swaravo",
+        "description": "A customizable embrace motif that turns a close relationship into a more personal keepsake.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-69.webp?v=1767522740",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14906249838974"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/skull-hug-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/skull-hug-halskette",
+        "name": "Skull Hug Halskette – Ewige unzertrennliche Liebe | Swaravo",
+        "description": "A skull-and-embrace design for an unconventional expression of inseparable love.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14891435458942-v6-56e89268d2e9-1080x1350.webp?v=1787648154",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891435458942"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/liebessprung-umarmungskette#catalog-entry",
+        "url": "https://swaravo.com/products/liebessprung-umarmungskette",
+        "name": "Umarmung für die Seele – Symbol-Halskette für Liebe & Verbindung | Swaravo",
+        "description": "Two figures meet in an embrace, creating a simple emblem of unity and emotional connection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14891425988990-v6-fe3fc3da363c-1080x1350.webp?v=1787648456",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891425988990"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/goldene-umarmungs-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/goldene-umarmungs-halskette",
+        "name": "Goldene Umarmungs Halskette– Symbol der Nähe & Liebe | Swaravo",
+        "description": "An embracing-figures pendant designed to communicate tenderness, nearness, and love.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14891411439998-v6-0b18520bc7ef-1080x1350.webp?v=1787647631",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891411439998"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/umarmungs-ohrringe#catalog-entry",
+        "url": "https://swaravo.com/products/umarmungs-ohrringe",
+        "name": "Umarmungs Ohrringe -Symbol für Nähe und Verbundenheit | Swaravo",
+        "description": "A pair of embrace-shaped earrings that carries the idea of connection on both sides.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14891363991934-v6-7cd86b55fbb0-1080x1350.webp?v=1787648483",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891363991934"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/umarmungsarmband#catalog-entry",
+        "url": "https://swaravo.com/products/umarmungsarmband",
+        "name": "Umarmung Armband Armreif-Freundschaft & ewige Liebe | Swaravo",
+        "description": "An embrace-shaped bracelet for friendship, partnership, and the people who feel like home.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14891359732094-v7-32cfb71ca56c-1080x1350.webp?v=1787648436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891359732094"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/stethoskop-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/stethoskop-halskette",
+        "name": "Stethoskop Halskette -Ein Herz für Rettungsanitäter | Swaravo",
+        "description": "A stethoscope shaped into a heart as a sign of care and appreciation for emergency professionals.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-6.webp?v=1767496903",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891259167102"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/herz-und-schwert-kette#catalog-entry",
+        "url": "https://swaravo.com/products/herz-und-schwert-kette",
+        "name": "Schwert der Liebe – Geteilte Herz und Schwert-kette für Paare | Swaravo",
+        "description": "A separable heart-and-sword pair that brings tenderness and strength into one shared design.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14886207357310-v6-745c1f72e4d9-1080x1350.webp?v=1787648095",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14886207357310"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kleine-katzchen-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/kleine-katzchen-halskette",
+        "name": "Goldene Hand & Silberkatze – Katzen Halskette für echte Katzenliebe | Swaravo",
+        "description": "A playful hand-and-cat scene for carrying affection for a feline companion.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14687317229950-v6-15d08bdfb0a5-1080x1350.webp?v=1787647617",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14687317229950"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/rosenhalskette-mit-ewiger-rose#catalog-entry",
+        "url": "https://swaravo.com/products/rosenhalskette-mit-ewiger-rose",
+        "name": "Langstielige Rote Rose Kette – Zarte Liebe in einem floralen Design | Swaravo",
+        "description": "A long-stem rose silhouette gives romantic affection a delicate floral form.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14687316050302-v5-2237ce6f8cee-1080x1350.webp?v=1787647864",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14687316050302"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/ewige-liebe-ring#catalog-entry",
+        "url": "https://swaravo.com/products/ewige-liebe-ring",
+        "name": "Ewige Liebe Ring | Swaravo",
+        "description": "A bold ring design framed around the idea of love that remains present over time.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-96.webp?v=1767497334",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14687311069566"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/herzring#catalog-entry",
+        "url": "https://swaravo.com/products/herzring",
+        "name": "Fingerherz-Ring – Eine Geste der Liebe zum Tragen | Swaravo",
+        "description": "The familiar finger-heart gesture becomes a small, wearable sign of affection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/9650660868379-v5-070b88ba14ad-1080x1350.webp?v=1787647543",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9650660868379"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/100-sprachen-i-love-you-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/100-sprachen-i-love-you-halskette",
+        "name": "Ich liebe dich Kette  100 Sprachen Herzstein - Geschenk mit Bedeutung  | Swaravo",
+        "description": "A heart-centered necklace built around sharing the words “I love you” across many languages.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/9615417901339-v5-008148523026-1080x1350.webp?v=1787647679",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9615417901339"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/adam-und-eva-umarmungshalsband#catalog-entry",
+        "url": "https://swaravo.com/products/adam-und-eva-umarmungshalsband",
+        "name": "Retro Stil Umarmung Halskette – Emotionale Kette für Liebe & Nähe | Swaravo",
+        "description": "A vintage-inspired embrace motif for love, intimacy, and emotional closeness.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/9154652963099-v5-0988c6fb435e-1080x1350.webp?v=1787647986",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9154652963099"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/zwei-herzen-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/zwei-herzen-halskette",
+        "name": "Herz an Herz – Romantische Zwei Herzen Halskette | Swaravo",
+        "description": "Two joined hearts represent two people held together by one relationship.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-10.webp?v=1767497692",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9154605580571"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/umarmungshalskette-mit-echter-konservierter-rose#catalog-entry",
+        "url": "https://swaravo.com/products/umarmungshalskette-mit-echter-konservierter-rose",
+        "name": "Umarmungshalskette mit echter konservierter Rose | Swaravo",
+        "description": "An embrace necklace paired with a preserved-rose presentation for a layered message of connection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-69.webp?v=1767522740",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8957325082907"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/ich-liebe-dich-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/ich-liebe-dich-halskette",
+        "name": "Ich Liebe Dich Halskette | Swaravo",
+        "description": "A love-message necklace made for expressing words that may otherwise stay unspoken.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8682567303451-v6-fedf4f322c08-1080x1350.webp?v=1787647665",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8682567303451"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/you-are-my-sunshine-ring#catalog-entry",
+        "url": "https://swaravo.com/products/you-are-my-sunshine-ring",
+        "name": "Stark Gravur Ring „You Are My Sunshine“ – Schmuck für Liebe und Kraft | Swaravo",
+        "description": "An engraved sunshine message for someone who brings warmth, love, and encouragement.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8681260974363-v5-69df740f42fd-1080x1350.webp?v=1787648239",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8681260974363"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/katzenliebe-pfoten-ring#catalog-entry",
+        "url": "https://swaravo.com/products/katzenliebe-pfoten-ring",
+        "name": "Katzenliebe Pfoten-Ring – Verstellbarer Umarmungsring für Katzenfreunde | Swaravo",
+        "description": "A paw-inspired embrace ring for the bond between a cat and the person who loves it.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8310355296539-v5-1015b5230ec1-1080x1350.webp?v=1787647716",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8310355296539"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/regenbogen-schmetterlingsfluegel-partnerkette#catalog-entry",
+        "url": "https://swaravo.com/products/regenbogen-schmetterlingsfluegel-partnerkette",
+        "name": "Regenbogen-Schmetterlingsflügel-Kette – Teilbare Partnerkette für zwei | Swaravo",
+        "description": "Two shareable halves come together as butterfly wings for partners or close friends.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8310150529307-v6-3a023c0bb8f4-1080x1350.webp?v=1787647963",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8310150529307"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/knoten-ring-liebe-verbundenheit#catalog-entry",
+        "url": "https://swaravo.com/products/knoten-ring-liebe-verbundenheit",
+        "name": "Knoten-Ring mit Bedeutung – Symbol für ewige Verbundenheit | Swaravo",
+        "description": "A knot motif represents a connection intended to hold through changing moments.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8270037221659-v6-bc11e0350627-1080x1350.webp?v=1787647775",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8270037221659"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/umarmungsring-bedeutung-liebe#catalog-entry",
+        "url": "https://swaravo.com/products/umarmungsring-bedeutung-liebe",
+        "name": "Umarmungsring mit Bedeutung – Symbol der Liebe & Nähe | Swaravo",
+        "description": "Curving arms wrap around the finger as a compact symbol of love and closeness.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8220767715611-v6-546a001b2532-1080x1350.webp?v=1787648504",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8220767715611"
+        },
+        "category": "Love and connection",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/uno-aussetzen-kette-grenzen-selbstschutz#catalog-entry",
+        "url": "https://swaravo.com/products/uno-aussetzen-kette-grenzen-selbstschutz",
+        "name": "UNO Aussetzen Kette – Grenzen setzen, bei dir bleiben | Swaravo",
+        "description": "The familiar skip symbol becomes a reminder that pausing and setting a boundary can be an act of self-protection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/16056747000190-v7-889932369f7c-1080x1350.webp?v=1787648596",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16056747000190"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/evil-eye-ring-925-silber-blau-weiss-zirkonia#catalog-entry",
+        "url": "https://swaravo.com/products/evil-eye-ring-925-silber-blau-weiss-zirkonia",
+        "name": "“To My Daughter” Evil Eye Ring – 925 Silber mit weißen & blauen Zirkonia",
+        "description": "An evil-eye motif framed as a protective message from a parent to a daughter.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967045502-v5-70901beae534-1080x1350.webp?v=1787648722",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967045502"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/ayatul-kursi-armreif#catalog-entry",
+        "url": "https://swaravo.com/products/ayatul-kursi-armreif",
+        "name": "Ayatul Kursi Armband – Islamisches Schutzarmband | Swaravo",
+        "description": "A faith-centered bracelet carrying the meaning of spiritual protection, peace, and guidance.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15638212018558-v5-d9812d29914a-1080x1350.webp?v=1787647312",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15638212018558"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kreuzkette-emerald-cut-zirkonia-glauben#catalog-entry",
+        "url": "https://swaravo.com/products/kreuzkette-emerald-cut-zirkonia-glauben",
+        "name": "Smaragd-Kette mit Kreuzanhänger Zirkonia in Grün, Roségold & Weiß | Swaravo",
+        "description": "A cross composition offered in distinct color expressions, centered on faith, hope, and renewal.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365367136638-v5-6e71fe73defd-1080x1350.webp?v=1787648183",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365367136638"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kreuzkette-mit-bunten-und-weissen-zirkonia-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/kreuzkette-mit-bunten-und-weissen-zirkonia-swaravo",
+        "name": "Kette mit bunten Steinen & Kreuzanhänger – Rubin, Smaragd & Aquamarin| Swaravo",
+        "description": "A multicolor cross design that brings several symbolic color stories into one faith-led piece.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365367103870-v6-3c2983f1b4c2-1080x1350.webp?v=1787647753",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365367103870"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/barock-kreuzkettering-vergoldet-mit-zirkonia#catalog-entry",
+        "url": "https://swaravo.com/products/barock-kreuzkettering-vergoldet-mit-zirkonia",
+        "name": "Statement Kreuzkette Gold – Barock-Design, 18K vergoldet & Zirkonia| Swaravo",
+        "description": "An ornate baroque cross for expressing conviction through a more elaborate statement silhouette.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365367071102-v5-4e173b4b99ee-1080x1350.webp?v=1787648369",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365367071102"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/sweet-faith-rosa-herz-kreuz-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/sweet-faith-rosa-herz-kreuz-halskette",
+        "name": "Kreuzkette mit rosa Zirkonia & Herz Anhänger 2in1 Look | Swaravo",
+        "description": "A cross-and-heart combination that brings affection and faith into the same design.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365367005566-v6-1ab796c4bd69-1080x1350.webp?v=1787647831",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365367005566"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/lilien-krone-kreuzkette#catalog-entry",
+        "url": "https://swaravo.com/products/lilien-krone-kreuzkette",
+        "name": "Kreuzkette im Lilien und Kronen Design – vergoldet & funkelnd | Swaravo",
+        "description": "Lily and crown details surround the cross with ideas of faith, dignity, and inner steadiness.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365366972798-v5-923ed90e1c33-1080x1350.webp?v=1787647792",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365366972798"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/umarmung-engelsfluegel-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/umarmung-engelsfluegel-halskette",
+        "name": "Engelsflügel Umarmung Halskette Kraft und Schutz | Swaravo",
+        "description": "Angel wings form an embrace that symbolizes comfort, protection, and supportive presence.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365366907262-v5-433c21364664-1080x1350.webp?v=1787647433",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365366907262"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kreuzkette-engelsfluegel-zirkonia-14k-gold#catalog-entry",
+        "url": "https://swaravo.com/products/kreuzkette-engelsfluegel-zirkonia-14k-gold",
+        "name": "Engelsflügel-Kette mit Kreuzanhänger – Zirkonia, vergoldet | Swaravo",
+        "description": "Wings and a cross combine the ideas of faith, guardianship, and accompaniment.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365367169406-v5-c3c696b32048-1080x1350.webp?v=1787647471",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365367169406"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/evil-eye-kette-925-silber-zirkonia#catalog-entry",
+        "url": "https://swaravo.com/products/evil-eye-kette-925-silber-zirkonia",
+        "name": "Evil Eye Kette aus 925 Silber – Schutzsymbol mit Zirkonia | Swaravo",
+        "description": "A discreet evil-eye necklace built around a widely recognized symbol of watchfulness and protection.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967668094-v6-3f57dd89708a-1080x1350.webp?v=1787647504",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967668094"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/herz-kreuz-ring-zirkonia-verstellbar#catalog-entry",
+        "url": "https://swaravo.com/products/herz-kreuz-ring-zirkonia-verstellbar",
+        "name": "Verstellbarer Herz Kreuzring mit Zirkonia – Symbol für Liebe & Glaube | Swaravo",
+        "description": "A heart and cross meet in one ring to express love supported by faith.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016964784510-v5-d32beaadae22-1080x1350.webp?v=1787648643",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016964784510"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/crowned-faith-kreuzkette#catalog-entry",
+        "url": "https://swaravo.com/products/crowned-faith-kreuzkette",
+        "name": "Kreuzkette mit drehbarer Krone – Crowned Faith | Swaravo",
+        "description": "A rotating crown detail gives the cross design a tactile expression of faith, strength, and hope.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14891720343934-v6-27f84335a2d2-1080x1350.webp?v=1787647809",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14891720343934"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/the-venom-ring#catalog-entry",
+        "url": "https://swaravo.com/products/the-venom-ring",
+        "name": "Schlangenring Damen – Der Venom Ring- Symbol für Stärke, Wandel & Schutz | Swaravo",
+        "description": "A snake form represents transformation, renewal, and the instinct to protect oneself.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14842206093694-v6-1f396b60ac2e-1080x1350.webp?v=1787648044",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14842206093694"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/angel-wing-ring#catalog-entry",
+        "url": "https://swaravo.com/products/angel-wing-ring",
+        "name": "Engelsflügel Ring | Swaravo",
+        "description": "An embracing wing motif for remembrance, comfort, and the feeling of being watched over.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14686248501630-v5-21277cf3a0ab-1080x1350.webp?v=1787647418",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14686248501630"
+        },
+        "category": "Protection and faith",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/uno-plus-4-kette-neue-chancen-entscheidungen#catalog-entry",
+        "url": "https://swaravo.com/products/uno-plus-4-kette-neue-chancen-entscheidungen",
+        "name": "UNO +4 Kette – Mut zu neuen Chancen & Entscheidungen | Swaravo",
+        "description": "The +4 symbol reframes an unexpected turn as a chance to choose, adapt, and move forward.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/16056743559550-v6-3138c4192222-1080x1350.webp?v=1787648572",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16056743559550"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/uno-wild-kette-freiheit-selbstbestimmung#catalog-entry",
+        "url": "https://swaravo.com/products/uno-wild-kette-freiheit-selbstbestimmung",
+        "name": "UNO Wild Kette – Freiheit, den eigenen Weg zu wählen | Swaravo",
+        "description": "The wild-card idea becomes a reminder of personal freedom and the right to choose a new direction.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/16056746639742-v5-824abd9af656-1080x1350.webp?v=1787648628",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16056746639742"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/grobe-panzerkette-gold-mutiges-statement-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/grobe-panzerkette-gold-mutiges-statement-swaravo",
+        "name": "Grobe Panzerkette Gold – Mutiges Statement | Swaravo",
+        "description": "Broad interlocking links create a confident silhouette for taking up space without apology.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/chain-5.webp?v=1775706704",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15852395528574"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/goldene-panzerkette-starke-in-jedem-glied-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/goldene-panzerkette-starke-in-jedem-glied-swaravo",
+        "name": "Goldene Panzerkette – Stärke in jedem Glied | Swaravo",
+        "description": "Connected links turn the chain itself into an image of strength built one part at a time.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/chain-3.webp?v=1775706695",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15852395200894"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/sisyphus-perlenkette#catalog-entry",
+        "url": "https://swaravo.com/products/sisyphus-perlenkette",
+        "name": "Sisyphus Halskette – Symbol für Resilienz | Swaravo",
+        "description": "The Sisyphus story becomes a symbol of perseverance when the path asks for repeated effort.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-4_f19b9d32-e554-4e8b-a5e8-26f9f7cb8b3d.webp?v=1767527564",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15733960540542"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/system-exit-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/system-exit-halskette-swaravo",
+        "name": "System Exit Halskette | Swaravo",
+        "description": "An exit-inspired symbol for questioning the expected route and choosing an independent path.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665109008766-v6-9b7089cc8975-1080x1350.webp?v=1787648403",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665109008766"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/pixel-sanduhr-kette-cherish-time#catalog-entry",
+        "url": "https://swaravo.com/products/pixel-sanduhr-kette-cherish-time",
+        "name": "Sanduhr Halskette mit Pixel-Anhänger – Trage dein Symbol für Zeit und Mut",
+        "description": "A pixel hourglass links limited time with the courage to act on what matters.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665108287870-v6-461cb03d1e47-1080x1350.webp?v=1787648021",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665108287870"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/run-to-dream-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/run-to-dream-halskette-swaravo",
+        "name": "Run to Dream Halskette | Swaravo",
+        "description": "A winged sneaker motif represents motion, ambition, and continuing toward a personal dream.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665107763582-v6-3ba9b6739c46-1080x1350.webp?v=1787648004",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665107763582"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/shapeshift-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/shapeshift-halskette-swaravo",
+        "name": "Shapeshift Halskette | Swaravo",
+        "description": "A transformation-led design for accepting change and the different forms a life can take.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-17.webp?v=1767494676",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665107370366"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/offline-dino-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/offline-dino-halskette-swaravo",
+        "name": "Offline Dino Halskette | Swaravo",
+        "description": "The familiar offline dinosaur becomes a playful reminder to continue when progress is interrupted.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665105764734-v6-1faad21750ca-1080x1350.webp?v=1787647917",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665105764734"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/sei-du-selbst-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/sei-du-selbst-halskette-swaravo",
+        "name": "Sei Du Selbst Halskette | Swaravo",
+        "description": "A direct expression of individuality and the confidence to remain recognizably yourself.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665105600894-v6-e149aad0298c-1080x1350.webp?v=1787648140",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665105600894"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/yin-yang-balance-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/yin-yang-balance-halskette-swaravo",
+        "name": "Yin-Yang Balance Halskette | Swaravo",
+        "description": "The yin-yang form represents balance between opposites and steadiness within change.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665105502590-v6-379070dde9ad-1080x1350.webp?v=1787648690",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665105502590"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 61,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kette-krypto-freiheit-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/kette-krypto-freiheit-swaravo",
+        "name": "Kette Krypto Freiheit | Swaravo",
+        "description": "A technology-inspired symbol associated with independence, innovation, and choosing one’s own path.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665105109374-v6-ab548f665465-1080x1350.webp?v=1787647732",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665105109374"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 62,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/tarot-karte-kraft-viii-lowe-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/tarot-karte-kraft-viii-lowe-halskette-swaravo",
+        "name": "Tarot Kraft Halskette – Deine innere Stärke als tägliche Erinnerung | Swaravo",
+        "description": "The Strength tarot image offers a daily reminder of courage, composure, and inner power.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665108025726-v7-5574f0798bff-1080x1350.webp?v=1787648421",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665108025726"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/star-power-halskette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/star-power-halskette-swaravo",
+        "name": "Gamer Halskette – Retro 8-Bit Stern Anhänger Unisex | Swaravo",
+        "description": "A retro pixel star turns game language into a symbol of energy and inner capability.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15665109336446-v6-e4c634befa6e-1080x1350.webp?v=1787647582",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15665109336446"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 64,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/pik-ass-halskette-edelstahl-talisman#catalog-entry",
+        "url": "https://swaravo.com/products/pik-ass-halskette-edelstahl-talisman",
+        "name": "Pik Ass Karte Kette –  Symbol für Macht, Schicksal und Neubeginn | Swaravo",
+        "description": "The ace of spades brings together personal power, decisive change, and the possibility of a new chapter.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15637056520574-v6-e1b53d65c470-1080x1350.webp?v=1787647936",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15637056520574"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 65,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/openai-chatgpt-inspirated-necklace#catalog-entry",
+        "url": "https://swaravo.com/products/openai-chatgpt-inspirated-necklace",
+        "name": "Künstliche Intelligenz OpenAI Halskette Symbol für Intelligenz u. Innovation | Swaravo",
+        "description": "An AI-inspired geometric pendant for curiosity, creative thinking, and technological innovation.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15637010153854-v6-c4c62eae40ea-1080x1350.webp?v=1787647847",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15637010153854"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 66,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/barocke-perlen-umarmung-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/barocke-perlen-umarmung-halskette",
+        "name": "“Umarme das Unperfekte” Barockperlen Halskette | Swaravo",
+        "description": "Hands holding an irregular pearl express self-acceptance and the beauty of an individual form.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15365366940030-v6-da43b9845edd-1080x1350.webp?v=1787648738",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15365366940030"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 67,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/stark-mittelfinger-ohrringe#catalog-entry",
+        "url": "https://swaravo.com/products/stark-mittelfinger-ohrringe",
+        "name": "Stark Mittelfinger Ohrringe – Frecher Schmuck für Selbstbewusstsein | Swaravo",
+        "description": "A deliberately cheeky pair of earrings for humor, attitude, and visible self-confidence.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8391762411803-v5-6b8dba234ef7-1080x1350.webp?v=1787648295",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8391762411803"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/drehbarer-zirkonia-damenring#catalog-entry",
+        "url": "https://swaravo.com/products/drehbarer-zirkonia-damenring",
+        "name": "Drehbarer Zirkonia-Ring – Dein Anti-Stress-Ritual für den Alltag | Swaravo",
+        "description": "A rotating detail offers a small tactile ritual for pausing and returning attention to the present.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967111038-v6-b009972321c0-1080x1350.webp?v=1787647403",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967111038"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 69,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/selbstliebe-kette-i-am-enough#catalog-entry",
+        "url": "https://swaravo.com/products/selbstliebe-kette-i-am-enough",
+        "name": "„I Am Enough“ Halskette – Schmuck für Selbstliebe & innere Stärke | Swaravo",
+        "description": "The words “I Am Enough” turn self-worth into a direct reminder worn close.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/14687314313598-v6-18447d938889-1080x1350.webp?v=1787648752",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14687314313598"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 70,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/smiley-ring#catalog-entry",
+        "url": "https://swaravo.com/products/smiley-ring",
+        "name": "Smiley Ring – ein kleines Lächeln für schwere Zeiten | Swaravo",
+        "description": "A small smile motif offers a lighthearted sign to carry through more difficult days.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/9650842435867-v6-47350204b08e-1080x1350.webp?v=1787648199",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9650842435867"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 71,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/be-kind-of-a-b-tch-halskette-1#catalog-entry",
+        "url": "https://swaravo.com/products/be-kind-of-a-b-tch-halskette-1",
+        "name": "Be kind - of a b*tch Halskette | Swaravo",
+        "description": "A hidden-message design balancing kindness with backbone, boundaries, and a sense of humor.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/9610630365467-v5-7ae65f2cc816-1080x1350.webp?v=1787647338",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9610630365467"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 72,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/stark-selbstliebe-ring-im-enough#catalog-entry",
+        "url": "https://swaravo.com/products/stark-selbstliebe-ring-im-enough",
+        "name": "Stark Selbstliebe Ring „I'm Enough“ – Schmuck für Trost und Stärke | Swaravo",
+        "description": "An engraved self-worth message intended as a private reminder of enoughness and inner strength.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8218649428251-v6-bae9eaba29f1-1080x1350.webp?v=1787648334",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8218649428251"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 73,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/stark-mittelfinger-anhanger#catalog-entry",
+        "url": "https://swaravo.com/products/stark-mittelfinger-anhanger",
+        "name": "Stark Mittelfinger Anhänger Halskette– Statement Kette mit Haltung | Swaravo",
+        "description": "A rebellious figure turns humor and defiance into a compact statement of confidence.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8766440177947-v5-488f534193d3-1080x1350.webp?v=1787648254",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8766440177947"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 74,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/keep-going-ring#catalog-entry",
+        "url": "https://swaravo.com/products/keep-going-ring",
+        "name": "“Keep Going” Ermutigungsring - Geschenk für schwere Zeiten | Swaravo",
+        "description": "A direct encouragement message for persistence when the next step feels difficult.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8681260253467-v6-0f28ad3b334e-1080x1350.webp?v=1787648705",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8681260253467"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 75,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/ermutigungsring-be-fearless#catalog-entry",
+        "url": "https://swaravo.com/products/ermutigungsring-be-fearless",
+        "name": "Be Fearless Ring – Schmuck für Mut & Geschenk für schwere Zeiten | Swaravo",
+        "description": "A courage-led ring carrying a clear reminder to meet hard moments without surrendering to fear.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8681251799323-v5-85d165c40279-1080x1350.webp?v=1787647325",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8681251799323"
+        },
+        "category": "Strength and self-belief",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 76,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/dackel-smile-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/dackel-smile-halskette",
+        "name": "Dackel Halskette Gold – Dackel Anhänger für Dackelliebhaber",
+        "description": "A cheerful dachshund silhouette shaped around a smile for everyday affection and good spirits.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15849800892798-v5-656e5b84d844-1080x1350.webp?v=1787647372",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15849800892798"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 77,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/magic-8-ball-halskette#catalog-entry",
+        "url": "https://swaravo.com/products/magic-8-ball-halskette",
+        "name": "Magic 8-Ball Halskette mit Anhänger - Trage dein eigenes Glück",
+        "description": "The Magic 8-Ball becomes a playful emblem of possibility, decisions, and making one’s own luck.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15733951103358-v6-3cf8920f27f9-1080x1350.webp?v=1787647887",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15733951103358"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 78,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/mahjong-fah-halskette-gluecksbringer-wohlstand#catalog-entry",
+        "url": "https://swaravo.com/products/mahjong-fah-halskette-gluecksbringer-wohlstand",
+        "name": "Mahjong „發“-Halskette – Symbol für Wohlstand & Erfolg | Swaravo",
+        "description": "The Mahjong “發” character carries associations with prosperity, success, and fortunate momentum.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15637018313086-v6-1c9590f90362-1080x1350.webp?v=1787647899",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15637018313086"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 79,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/uno-richtungswechsel-kette-gluecksbringer#catalog-entry",
+        "url": "https://swaravo.com/products/uno-richtungswechsel-kette-gluecksbringer",
+        "name": "UNO Reverse Kette – Symbol für Neuanfang & Wandel | Swaravo",
+        "description": "The reverse symbol represents changing direction, reclaiming agency, and opening a new chapter.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967766398-v7-bc20617288a4-1080x1350.webp?v=1787648612",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967766398"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 80,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kleeblatt-ring-vierblaettrig-gold#catalog-entry",
+        "url": "https://swaravo.com/products/kleeblatt-ring-vierblaettrig-gold",
+        "name": "Vierblättriger Kleeblatt Ring – drehbarer Glücksbringer | Swaravo",
+        "description": "A rotating four-leaf clover turns a classic sign of luck into an interactive reminder of hope.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016967340414-v6-83d002d78abe-1080x1350.webp?v=1787648675",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016967340414"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 81,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/sunrise-halskette-hoffnung-neuanfang#catalog-entry",
+        "url": "https://swaravo.com/products/sunrise-halskette-hoffnung-neuanfang",
+        "name": "Sunrise Halskette – Hoffnungsschmuck & Geschenk für neue Anfänge | Swaravo",
+        "description": "A rising-sun motif represents light returning, renewed hope, and the beginning of another path.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016966914430-v6-aea7dcab9fe4-1080x1350.webp?v=1787648386",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016966914430"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 82,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/sonnenblumen-kette-drehbar-vergoldet#catalog-entry",
+        "url": "https://swaravo.com/products/sonnenblumen-kette-drehbar-vergoldet",
+        "name": "Sonnenblumen Kette mit drehbaren Blüten – dein Schmuckstück für Licht, Energie & Hoffnung | Swaravo",
+        "description": "Moving sunflower details evoke light, optimism, and the choice to turn toward hope.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/15016209351038-v5-82ac99ac0623-1080x1350.webp?v=1787648218",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016209351038"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 83,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/traumring#catalog-entry",
+        "url": "https://swaravo.com/products/traumring",
+        "name": "Traumring- Dein persönlicher Glücksbringer | Swaravo",
+        "description": "A colorful, crown-like design created around dreams, optimism, and a personal sense of good fortune.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/J-95.webp?v=1767497370",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14687310086526"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 84,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kleeblatt-herz-kette-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/kleeblatt-herz-kette-swaravo",
+        "name": "Vierblättrige Kleeblatt  Kette – Glücksbringer 2in1 Schmuck | Swaravo",
+        "description": "A four-leaf clover that also reads as four hearts connects luck with love in one transforming motif.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/8221610279195-v6-942978138a71-1080x1350.webp?v=1787648661",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8221610279195"
+        },
+        "category": "Luck, hope, and new paths",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 85,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/acrylbox-konservierte-rose#catalog-entry",
+        "url": "https://swaravo.com/products/acrylbox-konservierte-rose",
+        "name": "Acrylbox mit konservierter Rose",
+        "description": "A clear, faceted display box built around a preserved rose and space for presenting a small jewelry gift.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/858014816617-04-lifestyle-held.webp?v=1787276708",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054807462270"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 86,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/kleiner-glasengel-eine-konservierte-rose#catalog-entry",
+        "url": "https://swaravo.com/products/kleiner-glasengel-eine-konservierte-rose",
+        "name": "Kleiner Glasengel mit einer konservierten Rose",
+        "description": "A small glass-angel presentation framing a preserved rose as a gentle decorative keepsake.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/867641786740-03-lifestyle-a.webp?v=1787276680",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054805922174"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 87,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/grosser-glasengel-drei-konservierte-rosen#catalog-entry",
+        "url": "https://swaravo.com/products/grosser-glasengel-drei-konservierte-rosen",
+        "name": "Großer Glasengel mit drei konservierten Rosen",
+        "description": "A larger angel-shaped glass display holding three preserved roses for a more substantial presentation.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/1044719550837-03-lifestyle-a.webp?v=1787276661",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054804906366"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 88,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/quadratische-geschenkbox-vier-konservierte-rosen#catalog-entry",
+        "url": "https://swaravo.com/products/quadratische-geschenkbox-vier-konservierte-rosen",
+        "name": "Quadratische Geschenkbox mit vier konservierten Rosen",
+        "description": "A square gift box arranging four preserved roses around a compact presentation format.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/869099595300-04-lifestyle-bed.webp?v=1787276794",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054813327742"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 89,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/herzschmuckbox-rose-schluessel#catalog-entry",
+        "url": "https://swaravo.com/products/herzschmuckbox-rose-schluessel",
+        "name": "Herzschmuckbox mit Rose und Schlüssel",
+        "description": "A heart-shaped jewelry box with a rose and key motif for a romantic reveal.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/1043130338257-03-lifestyle-held.webp?v=1787276765",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054811885950"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 90,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/runde-rosenbox-goldrand#catalog-entry",
+        "url": "https://swaravo.com/products/runde-rosenbox-goldrand",
+        "name": "Runde Rosenbox mit Goldrand",
+        "description": "A round rose presentation box finished with a contrasting border for a polished gift display.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/1069932562178-03-lifestyle-held.webp?v=1787276722",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054808641918"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 91,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/rosenherz-pe-schaum-transparente-geschenkbox#catalog-entry",
+        "url": "https://swaravo.com/products/rosenherz-pe-schaum-transparente-geschenkbox",
+        "name": "Rosenherz aus PE-Schaum in transparenter Geschenkbox",
+        "description": "A heart assembled from rose forms and displayed inside a transparent gift box.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/894445964338-03-lifestyle-a.webp?v=1787276556",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16054799499646"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 92,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/rose-unicorn-keepsake-gift#catalog-entry",
+        "url": "https://swaravo.com/products/rose-unicorn-keepsake-gift",
+        "name": "Rose Unicorn Keepsake Gift with Veil",
+        "description": "A unicorn-shaped rose keepsake with a veil detail for a whimsical decorative gift.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/728315749903-red-scene-2.webp?v=1787149982",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "16052660207998"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 93,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/tenniskette-mit-zirkonia-funkelnde-klarheit-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/tenniskette-mit-zirkonia-funkelnde-klarheit-swaravo",
+        "name": "Tenniskette Funkelnde Klarheit | Swaravo",
+        "description": "A continuous line of light gives the classic tennis-chain silhouette a clear, polished rhythm.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/chain-2.webp?v=1775706691",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15852395069822"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 94,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/goldene-figarokette-rhythmus-harmonie-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/goldene-figarokette-rhythmus-harmonie-swaravo",
+        "name": "Goldene Figarokette – Rhythmus & Harmonie | Swaravo",
+        "description": "Alternating link proportions create the distinctive rhythm associated with a Figaro chain.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/chain-6.webp?v=1775706708",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15852395692414"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 95,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/feine-goldkette-zarte-leichtigkeit-swaravo#catalog-entry",
+        "url": "https://swaravo.com/products/feine-goldkette-zarte-leichtigkeit-swaravo",
+        "name": "Feine Goldkette – Zarte Leichtigkeit | Swaravo",
+        "description": "A fine, minimal chain designed for a light visual presence and easy layering.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/chain-4.webp?v=1775706699",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15852395299198"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 96,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/enchanted-sparkly-rose-19147030#catalog-entry",
+        "url": "https://swaravo.com/products/enchanted-sparkly-rose-19147030",
+        "name": "Enchanted Sparkly Rose | Swaravo",
+        "description": "A sparkling rose keepsake intended as a decorative focal point for a gift moment.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/sparklyroses-enchanted-sparkly-rose-galaxy-24094437015749.jpg?v=1743090154",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016962818430"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 97,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/glitterbouquet-19147029#catalog-entry",
+        "url": "https://swaravo.com/products/glitterbouquet-19147029",
+        "name": "Glitter Rose Bouquet | Swaravo",
+        "description": "A bouquet-style arrangement of glittering rose forms for display and presentation.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/100_99b2949c-b97a-4811-ba10-6209f9e2a2d2.jpg?v=1743089901",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "15016960721278"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 98,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/cupids-juwelen-herz#catalog-entry",
+        "url": "https://swaravo.com/products/cupids-juwelen-herz",
+        "name": "Cupids Juwelen Herz | Swaravo",
+        "description": "A heart-shaped gift item presented under the Cupid’s Jewels name; the live page is the source for its current contents and details.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/1-679f814aae6d0.webp?v=1738507021",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14916219437438"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 99,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/retro-ringuhr#catalog-entry",
+        "url": "https://swaravo.com/products/retro-ringuhr",
+        "name": "Retro Ringuhr Verstellbarer Ring mit Mini-Uhr | Swaravo",
+        "description": "A miniature watch set into a ring format, combining a nostalgic accessory look with a time display.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/swaravo-retro-ringuhr-gold-vintage.webp?v=1752663773",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9442553790747"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 100,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/mr-rose-teddy#catalog-entry",
+        "url": "https://swaravo.com/products/mr-rose-teddy",
+        "name": "Mr. Rose Teddy | Rosenbären mit Box von höchster Qualität | Swaravo",
+        "description": "A teddy-bear form composed of rose shapes and presented as a boxed keepsake.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/light-pink.webp?v=1787146518",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9217330610459"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 101,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/rose-teddy#catalog-entry",
+        "url": "https://swaravo.com/products/rose-teddy",
+        "name": "Rotierbarer Ewiger Rosen Teddy | Swaravo",
+        "description": "A rotating teddy presentation built around rose forms and a concealed space for a jewelry gift.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/9-6651f5042e990.webp?v=1716818638",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9217328087323"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 102,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/360-rosenbox#catalog-entry",
+        "url": "https://swaravo.com/products/360-rosenbox",
+        "name": "Rotierbare Ewige Rosen Box | Swaravo",
+        "description": "A rotating rose box designed to make the presentation of a small jewelry gift part of the experience.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/eternal-rose-box-with-engraved-hearts-necklace-518760.webp?v=1716819562",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "9154647621915"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 103,
+      "item": {
+        "@type": "Product",
+        "@id": "https://swaravo.com/products/elegante-aesker#catalog-entry",
+        "url": "https://swaravo.com/products/elegante-aesker",
+        "name": "Elegante Boxen | Swaravo",
+        "description": "A jewelry presentation box for giving or storing a piece in a more finished format.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/10-674093df2f733.webp?v=1732287525",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8322162163995"
+        },
+        "category": "Style, presentation, and keepsakes",
+        "brand": {
+          "@id": "https://swaravo.com/#brand"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 104,
+      "item": {
+        "@type": "Service",
+        "@id": "https://swaravo.com/products/shipping-protection#catalog-entry",
+        "url": "https://swaravo.com/products/shipping-protection",
+        "name": "Versandschutz",
+        "description": "A checkout-related shipping-protection listing; its current coverage and conditions should be read on the live page.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/shipping_protection.png?v=1732019388",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "14823029473662"
+        },
+        "category": "Service and checkout items",
+        "serviceType": "Checkout shipping protection",
+        "provider": {
+          "@id": "https://swaravo.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 105,
+      "item": {
+        "@type": "Service",
+        "@id": "https://swaravo.com/products/fragtforsikring#catalog-entry",
+        "url": "https://swaravo.com/products/fragtforsikring",
+        "name": "Versandversicherung",
+        "description": "A shipping-insurance listing; its current coverage and conditions should be verified on the live page before purchase.",
+        "image": "https://cdn.shopify.com/s/files/1/0741/7485/7499/files/demo-upload.png?v=1696298724",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Shopify product ID",
+          "value": "8685287702811"
+        },
+        "category": "Service and checkout items",
+        "serviceType": "Checkout shipping protection",
+        "provider": {
+          "@id": "https://swaravo.com/#organization"
+        }
+      }
+    }
+  ]
+}

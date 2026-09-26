@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "OnlineStore",
+      "@id": "https://swaravo.com/#organization",
+      "name": "Swaravo",
+      "url": "https://swaravo.com/",
+      "description": "Swaravo is a jewelry and meaningful-gift brand that turns emotions into wearable symbols, with designs centered on love, protection, strength, luck, hope, faith, connection, and self-worth.",
+      "slogan": "Trage, was du fühlst.",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://swaravo.com/#logo",
+        "url": "https://swaravo.com/cdn/shop/files/swaravo_logo.webp?v=1731897515&width=500",
+        "contentUrl": "https://swaravo.com/cdn/shop/files/swaravo_logo.webp?v=1731897515&width=500"
+      },
+      "brand": {
+        "@id": "https://swaravo.com/#brand"
+      },
+      "sameAs": [
+        "https://www.instagram.com/swaravo/"
+      ],
+      "knowsAbout": [
+        {
+          "@id": "https://swaravo.com/#theme-love"
+        },
+        {
+          "@id": "https://swaravo.com/#theme-protection"
+        },
+        {
+          "@id": "https://swaravo.com/#theme-strength"
+        },
+        {
+          "@id": "https://swaravo.com/#theme-luck"
+        }
+      ]
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://swaravo.com/#brand",
+      "name": "Swaravo",
+      "url": "https://swaravo.com/",
+      "description": "Swaravo creates symbolic jewelry for feelings that are important but not always easy to put into words.",
+      "slogan": "Trage, was du fühlst.",
+      "logo": {
+        "@id": "https://swaravo.com/#logo"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://swaravo.com/#website",
+      "name": "Swaravo",
+      "url": "https://swaravo.com/",
+      "publisher": {
+        "@id": "https://swaravo.com/#organization"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://swaravo.com/#meaning-themes",
+      "name": "Swaravo's four meaning-led themes",
+      "description": "The four central themes used by Swaravo to help customers choose jewelry by meaning.",
+      "numberOfItems": 4,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "DefinedTerm",
+            "@id": "https://swaravo.com/#theme-love",
+            "name": "Love",
+            "alternateName": "Liebe",
+            "description": "Closeness, connection, and memories shared with someone important.",
+            "url": "https://swaravo.com/collections/love-collection"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "DefinedTerm",
+            "@id": "https://swaravo.com/#theme-protection",
+            "name": "Protection",
+            "alternateName": "Schutz",
+            "description": "Protection, faith, reassurance, and the feeling of being accompanied.",
+            "url": "https://swaravo.com/collections/kreuzketten-mit-bedeutung"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "DefinedTerm",
+            "@id": "https://swaravo.com/#theme-strength",
+            "name": "Strength",
+            "alternateName": "Stärke",
+            "description": "Courage, support, self-belief, resilience, and new beginnings.",
+            "url": "https://swaravo.com/collections/stark-schmuck-geschenk-schwere-zeiten"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "DefinedTerm",
+            "@id": "https://swaravo.com/#theme-luck",
+            "name": "Luck",
+            "alternateName": "Glück",
+            "description": "Hope, new paths, positive signs, and meaningful milestones.",
+            "url": "https://swaravo.com/collections/gluecksbringer-hoffnungstraeger-schmuck"
+          }
+        }
+      ]
+    }
+  ]
+}
